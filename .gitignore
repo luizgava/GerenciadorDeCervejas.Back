@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs
+/GerenciadorDeCervejas.Api/bin
+/GerenciadorDeCervejas.Repositorio/bin
+/GerenciadorDeCervejas.Repositorio/obj
+/GerenciadorDeCervejas.Mensageria/bin/Debug/netcoreapp3.1
+/GerenciadorDeCervejas.Mensageria/obj
+/GerenciadorDeCervejas.Infra/bin
+/GerenciadorDeCervejas.Infra/obj
+/GerenciadorDeCervejas.Dominio/bin
+/GerenciadorDeCervejas.Dominio/obj
+/GerenciadorDeCervejas.Aplicacao.Teste/bin/Debug/netcoreapp3.1
+/GerenciadorDeCervejas.Aplicacao.Teste/obj
+/GerenciadorDeCervejas.Aplicacao/bin
+/GerenciadorDeCervejas.Aplicacao/obj
+/GerenciadorDeCervejas.Api/obj
+/GerenciadorDeCervejas.Api/Properties/PublishProfiles
